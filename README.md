@@ -1,1 +1,3 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=boopxyz)](https://github.com/anuraghazra/github-readme-stats)
+[![Boop's GitHub Stats](https://github-readme-stats.vercel.app/api?username=boopxyz&show_icons=true&theme=synthwave)]
+
+[![Boop's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boopxyz&layout=compact&langs_count=8)]
